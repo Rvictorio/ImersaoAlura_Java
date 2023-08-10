@@ -27,5 +27,12 @@ Projeto realizado conjunto a Imersão Back End Alura, onde utilizamos Java e sua
 </table>
 
 ## Instrutores da imersão:
-Jacqueline Oliveira | Alexandre Aquiles | Paulo Silveira
- [![Instagram](https://www.alura.com.br/assets/img/imersao-java/instagram.1655844054.svg)](https://www.instagram.com/jacque.tech/) [![LinkedIn](https://www.alura.com.br/assets/img/imersao-java/linkedin.1655291590.svg)](https://www.linkedin.com/in/jacqueline-r-oliveira/)   | [![Instagram](https://www.alura.com.br/assets/img/imersao-java/instagram.1655844054.svg)](https://www.instagram.com/aquiles3137/)[![LinkedIn](https://www.alura.com.br/assets/img/imersao-java/linkedin.1655291590.svg)](https://www.linkedin.com/in/alexandreaquiles/) | [![Instagram](https://www.alura.com.br/assets/img/imersao-java/instagram.1655844054.svg)](https://www.instagram.com/paulo_hipster)[![LinkedIn](https://www.alura.com.br/assets/img/imersao-java/linkedin.1655291590.svg)](https://www.linkedin.com/in/paulosilveira)
+|Instrutores|Redes sociais|
+|:------------------:|:------------------:|
+| Jacqueline Oliveira | [![Instagram](https://www.alura.com.br/assets/img/imersao-java/instagram.1655844054.svg)](https://www.instagram.com/jacque.tech/) [![LinkedIn](https://www.alura.com.br/assets/img/imersao-java/linkedin.1655291590.svg)](https://www.linkedin.com/in/jacqueline-r-oliveira/) |
+| Alexandre Aquiles | [![Instagram](https://www.alura.com.br/assets/img/imersao-java/instagram.1655844054.svg)](https://www.instagram.com/aquiles3137/)[![LinkedIn](https://www.alura.com.br/assets/img/imersao-java/linkedin.1655291590.svg)](https://www.linkedin.com/in/alexandreaquiles/) |
+| Paulo Silveira | [![Instagram](https://www.alura.com.br/assets/img/imersao-java/instagram.1655844054.svg)](https://www.instagram.com/paulo_hipster)[![LinkedIn](https://www.alura.com.br/assets/img/imersao-java/linkedin.1655291590.svg)](https://www.linkedin.com/in/paulosilveira)
+
+
+
+
